@@ -3,8 +3,7 @@
 Yutong Yang, Houxin Lao, Yiwei Gao, Weikang Li, and Yunfang Wu  
 Peking University
 
-**Paper:** [Read the paper (PDF)](<./llm-personality-survey-preprint.pdf>)  
-**Slides:** [中文讲解幻灯片](<./人格综述.pptx>)
+The survey paper and Chinese presentation slides are available to download from this repository.
 
 ## Overview
 
